@@ -52,6 +52,7 @@
                     {
                         Console.WriteLine("Invalid option entered. Please try again.");
                         break;
+                        break;
                     }
                 }
             }
